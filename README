@@ -1,5 +1,7 @@
 this is my php_library.
 
 1.plupload
-the plupload is downloaded from http://www.plupload.com/.
-this is a customized library for myself.
+ @use plupload : http://www.plupload.com/
+ @use jquery : http://jquery.com/
+ @use jquery-ui : http://jqueryui.com/
+*this is a customized library for myself.
